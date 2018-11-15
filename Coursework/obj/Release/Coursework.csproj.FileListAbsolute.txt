@@ -1,0 +1,10 @@
+F:\Documents\Year3\Application Development\Coursework\Coursework\bin\Release\Coursework.exe.config
+F:\Documents\Year3\Application Development\Coursework\Coursework\bin\Release\Coursework.exe
+F:\Documents\Year3\Application Development\Coursework\Coursework\bin\Release\Coursework.pdb
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.csprojResolveAssemblyReference.cache
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.Properties.Resources.resources
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.csproj.GenerateResource.Cache
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.exe
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.pdb
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.Main.resources
+F:\Documents\Year3\Application Development\Coursework\Coursework\obj\Release\Coursework.Chart.resources
